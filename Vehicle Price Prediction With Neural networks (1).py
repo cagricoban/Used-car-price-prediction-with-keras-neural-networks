@@ -331,7 +331,7 @@ tahminDizisi
 mean_absolute_error(y_test,tahminDizisi)
 
 
-# When we compared the actual car prices with our estimate for the test data, we found an average difference of 3893 pounds. When we look at the average car prices, we found 24074 liras. According to the user of the data, it can be decided that such an error can be tolerated or further reduced.
+# When we compared the actual car prices with our estimate for the test data, we found an average difference of 3893 pounds.When we look at the average car prices, we found 24074 liras. According to the user of the data, it can be decided that such an error can be tolerated or further reduced.
 
 # In[44]:
 
